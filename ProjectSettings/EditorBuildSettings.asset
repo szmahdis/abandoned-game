@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 92a6bb194b41ce548aebc85935995882
+  - enabled: 1
+    path: Assets/Scenes/Wake Up Room.unity
+    guid: 333777fb04f093742ac3cf0ca1b5e242
+  - enabled: 1
+    path: Assets/Scenes/Corridor.unity
+    guid: edfd748ca43518747a0e0915fef99bf6
+  - enabled: 1
+    path: Assets/Scenes/Big Room.unity
+    guid: 2959b09565117504abbcef953a791d81
+  - enabled: 1
+    path: Assets/Scenes/Outdoor.unity
+    guid: 593b6ab8ae0adaa4f858acd659b82ff3
+  m_configObjects: {}
